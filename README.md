@@ -36,7 +36,7 @@
 ## Tech Stack 🛠️
 
 - **Frontend**: React, Tailwind CSS, React Router DOM, Redux Toolkit  
-- **Backend**: Node.js, Express.js  
+- **Backend**: Appwrite 
 - **Database**: Firebase (Authentication, Firestore, Realtime DB)  
 - **Animations & Icons**: Lottie React, React Icons  
 - **AI Matchmaking**: Custom algorithm using user skill and interest data  
