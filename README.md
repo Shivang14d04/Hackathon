@@ -37,7 +37,7 @@
 
 - **Frontend**: React, Tailwind CSS, React Router DOM, Redux Toolkit  
 - **Backend**: Appwrite 
-- **Database**: Firebase (Authentication, Firestore, Realtime DB)  
+- **Database**: Appwrite (Authentication, Realtime DB)  
 - **Animations & Icons**: Lottie React, React Icons  
 - **AI Matchmaking**: Custom algorithm using user skill and interest data  
 - **Version Control**: Git & GitHub  
